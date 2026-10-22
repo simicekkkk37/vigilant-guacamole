@@ -19,3 +19,11 @@ Sed ultricies est in nulla imperdiet, ullamcorper scelerisque neque bibendum. Na
 - odrazka1
 - odrazka2
 - odrazka3
+
+
+**tucny text**   *kurziva*
+
+
+1. cislovany seznam
+2. seznam
+3. seznam
