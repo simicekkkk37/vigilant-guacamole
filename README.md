@@ -16,9 +16,9 @@ Sed ultricies est in nulla imperdiet, ullamcorper scelerisque neque bibendum. Na
 
 
 
-- odrazka1
-- odrazka2
-- odrazka3
+- odrážka1
+- odrážka2
+- odrážka3
 
 
 **tucny text**   *kurziva*
